@@ -1,0 +1,76 @@
+.box_1 {
+	position: absolute;
+	width: 770px;
+	height: 360px;
+	background-color: #8CB27C;
+}
+
+.box_2 {
+	position: absolute;
+	width: 750px;
+	height: 335px;
+	background-color: #8CB27C;
+	border: 5px solid #FFFFFF;
+	top: 5px;
+	left: 5px;
+}
+
+.box_3 {
+	position: absolute;
+	width: 70px;
+	height: 140px;
+	background-color: #8CB27C;
+	border: 5px solid #FFFFFF;
+	top: 100px;
+	left: 5px;
+}
+
+.box_4 {
+	position: absolute;
+	width: 70px;
+	height: 140px;
+	background-color: #8CB27C;
+	border: 5px solid #FFFFFF;
+	top: 100px;
+	left: 685px;
+}
+
+.circle {
+     width: 140px;
+     height: 140px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50% ;
+     border:5px solid #FFFFFF;
+     background: #8CB27C;
+     position: absolute;
+     top: 100px;
+	 left: 320px;
+}
+
+.ball1 {
+    background-image: url(../Img/ball_360.png);
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 103px;
+    left: 70px;
+}
+
+.ball2 {
+    background-image: url(../Img/ball_360.png);
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 40px;
+    left: 420px;
+}
+
+.ball3 {
+    background-image: url(../Img/ball_360.png);
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 210px;
+    left: 640px;
+}
